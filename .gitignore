@@ -1,0 +1,5 @@
+# Ignore Python Virtual Environment folder
+/.csvtools
+
+# Ignore all pycache folders across the repository
+**/__pycache__/
